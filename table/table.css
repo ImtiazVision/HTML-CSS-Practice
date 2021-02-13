@@ -1,0 +1,15 @@
+table {
+    /* padding: 20px; */
+    margin: 200px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    border-collapse: collapse;
+
+}
+
+tr, td {
+    border: 1px solid wheat;
+    border-collapse: collapse;
+    padding: 20px;
+}

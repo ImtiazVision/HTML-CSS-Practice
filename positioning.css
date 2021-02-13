@@ -1,0 +1,25 @@
+.boxes {
+    border: 3px solid lightblue;
+    position: relative;
+}
+
+.box {
+    height: 10rem;
+    width: 10rem;
+}
+
+.box-one {
+    background-color: blue;
+}
+
+.box-two {
+    background-color: aqua;
+    position: relative;
+    left: 10rem;
+}
+
+.box-three {
+    background-color: orange;
+    position: relative;
+    left: 20rem;
+}

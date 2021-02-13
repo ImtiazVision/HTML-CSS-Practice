@@ -1,0 +1,9 @@
+p {
+    color:dodgerblue;
+    border: 1px solid #000;
+}
+
+strong {
+    color: initial;
+    border: inherit;
+}

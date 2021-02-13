@@ -1,0 +1,29 @@
+body {
+    margin: 10px;
+}
+
+table, th, td {
+    border: 1px solid blueviolet;
+    border-left: 0;
+    border-right: 0;
+    border-collapse: collapse;
+}
+
+th {
+    padding: 10px;
+    background-color: blue;
+    color:aliceblue;
+}
+
+td {
+    padding: 3px;
+}
+
+tr:nth-child(odd){
+    background-color: blueviolet;
+    color: wheat;
+}
+
+.footer {
+    text-align: left;
+}
