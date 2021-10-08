@@ -31,3 +31,5 @@ Using the **Document Object Model**, programmers may create documents, explore t
 The HTML **DOM** defines the objects and properties of all HTML elements, as well as the methods (interface) to access them.
 
 `querySelector` and `getElementById` are 2 ways to get an element from **DOM**.
+
+The DOM is constructed in the browser as the page loads. The DOM is an API that treats HTML and XML documents as tree structures with nodes. `document.getElementById()` is used to select a node in **DOM**.
