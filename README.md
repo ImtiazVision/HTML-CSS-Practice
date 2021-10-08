@@ -29,3 +29,5 @@ Using the **Document Object Model**, programmers may create documents, explore t
 
 
 The HTML **DOM** defines the objects and properties of all HTML elements, as well as the methods (interface) to access them.
+
+`querySelector` and `getElementById` are 2 ways to get an element from **DOM**.
